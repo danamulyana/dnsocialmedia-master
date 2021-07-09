@@ -1,11 +1,13 @@
+import Home from "./pages/home/Home.jsx";
 
 
 function App() {
-  return (
-    <div className="App">
-      Hello
-    </div>
-  );
+  return <Home />
+  // return (
+  //   <div className="App">
+      
+  //   </div>
+  // );
 }
 
 export default App;
